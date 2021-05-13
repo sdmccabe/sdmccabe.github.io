@@ -58,8 +58,8 @@ body {
 
 h1 {
     font-weight: 400;
-    margin-top: 4rem;
-    margin-bottom: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1.0rem;
     font-size: 3.2rem;
     line-height: 1; 
 }
@@ -111,8 +111,7 @@ article {
 }
 
 section {
-    padding-top: 1rem;
-    padding-bottom: 1rem; 
+    padding-bottom: 1rem;
 }
 
 p,
