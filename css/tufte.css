@@ -40,8 +40,35 @@
 }
 
 /* Tufte CSS styles */
-html {
-    font-size: 15px; 
+
+@media (max-width: 200px) {
+    html {
+        font-size: 11px;
+    }
+}
+
+@media (min-width: 200px) {
+    html {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 300px) {
+    html {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 400px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 800px) {
+    html {
+        font-size: 15px;
+    }
 }
 
 body {
