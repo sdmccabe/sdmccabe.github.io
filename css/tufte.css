@@ -81,6 +81,7 @@ body {
     color: #111;
     max-width: 1400px;
     counter-reset: sidenote-counter; 
+    font-variant-numeric: oldstyle-nums;
 }
 
 h1 {
